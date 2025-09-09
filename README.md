@@ -1,2 +1,1 @@
-https://kata-aviasales-eight.vercel.app/
-после 4 ошибок выводится прекращается загрузка
+https://aviasales-khqda2xdv-genfer1s-projects.vercel.app/
